@@ -1,0 +1,2 @@
+rootProject.name = "BDFrescoDemo"
+include ':showsample'
